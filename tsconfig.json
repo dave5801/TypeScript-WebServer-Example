@@ -1,0 +1,14 @@
+{
+    "name": "typescript-http-server",
+    "version": "1.0.0",
+    "main": "server.ts",
+    "scripts": {
+      "start": "ts-node server.ts"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "ts-node": "^10.0.0",
+      "typescript": "^4.0.0"
+    }
+  }
+  

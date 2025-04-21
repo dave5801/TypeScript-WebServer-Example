@@ -1,0 +1,11 @@
+{
+  "id": "root",
+  "children": [
+    {
+      "id": "node2",
+      "data": {
+        "info": "persistent node"
+      }
+    }
+  ]
+}
