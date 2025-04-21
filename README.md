@@ -18,7 +18,12 @@ A minimalist HTTP server built in **TypeScript + Node.js** that manages a simple
 ---
 
 ## 📁 Project Structure
-tree-server-ts/ ├── server.ts # Core server logic ├── tree.json # Persistent tree data (auto-created) ├── package.json # Project scripts and metadata ├── tsconfig.json # TypeScript config └── README.md
+tree-server-ts/ 
+├── server.ts # Core server logic 
+├── tree.json # Persistent tree data (auto-created) 
+├── package.json # Project scripts and metadata 
+├── tsconfig.json # TypeScript config 
+└── README.md
 
 # Project documentation
 
